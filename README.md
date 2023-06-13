@@ -40,7 +40,7 @@ python manage.py runserver
 
 ```
 
-6. Access the API documentation at http://localhost:8000/swagger/ or http://localhost:8000/redoc/.
+6. Access the API documentation at https://rent-a-car-ni7m.onrender.com/swagger/ or https://rent-a-car-ni7m.onrender.com/redoc/.
 
 ## Project Plan
 
